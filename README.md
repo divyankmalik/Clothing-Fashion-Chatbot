@@ -1,0 +1,1 @@
+This is a chatbot created to help people find what they exactly need in today's generation, where fashion changes on a daily basis and new trends pass by with the speed of a lightning
