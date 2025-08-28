@@ -1,0 +1,41 @@
+# Data Processing & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# NLP & Transformers
+sentence-transformers>=2.2.0
+transformers>=4.33.0
+torch>=2.0.0
+tokenizers>=0.13.0
+
+# NLP Libraries
+nltk>=3.8.0
+spacy>=3.6.0
+textblob>=0.17.0
+
+# Jupyter Notebook (for your tests.ipynb)
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Additional dependencies that the above packages need
+tqdm>=4.65.0
+requests>=2.31.0
+regex>=2023.0.0
+huggingface-hub>=0.16.0
+safetensors>=0.3.0
+filelock>=3.12.0
+
+# Optional but recommended
+python-dotenv>=1.0.0
+
+## data to retreive from the web
+
+serpapi
