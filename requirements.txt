@@ -39,3 +39,8 @@ python-dotenv>=1.0.0
 ## data to retreive from the web
 
 serpapi
+google-search-results
+
+## database storage
+
+pinecone-client
