@@ -1,0 +1,52 @@
+[
+  {
+    "chunk_id": "img_001",
+    "product_id": "prod_001",
+    "image_url": "https://example.com/headphones_main.jpg",
+    "metadata": {
+      "test": true,
+      "type": "product_image"
+    },
+    "pinecone_id": "image_img_001_81230085"
+  },
+  {
+    "chunk_id": "img_002",
+    "product_id": "prod_001",
+    "image_url": "https://example.com/headphones_side.jpg",
+    "metadata": {
+      "test": true,
+      "type": "product_image"
+    },
+    "pinecone_id": "image_img_002_38606a5b"
+  },
+  {
+    "chunk_id": "img_003",
+    "product_id": "prod_002",
+    "image_url": "https://example.com/shoes_main.jpg",
+    "metadata": {
+      "test": true,
+      "type": "product_image"
+    },
+    "pinecone_id": "image_img_003_32fdf851"
+  },
+  {
+    "chunk_id": "img_004",
+    "product_id": "prod_003",
+    "image_url": "https://example.com/mug_main.jpg",
+    "metadata": {
+      "test": true,
+      "type": "product_image"
+    },
+    "pinecone_id": "image_img_004_ea742570"
+  },
+  {
+    "chunk_id": "img_005",
+    "product_id": "prod_004",
+    "image_url": "https://example.com/backpack_main.jpg",
+    "metadata": {
+      "test": true,
+      "type": "product_image"
+    },
+    "pinecone_id": "image_img_005_1ba1f473"
+  }
+]

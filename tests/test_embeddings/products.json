@@ -1,0 +1,30 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Wireless Headphones",
+    "price": 99.99,
+    "category": "electronics",
+    "brand": "AudioTech"
+  },
+  {
+    "id": "prod_002",
+    "name": "Running Shoes",
+    "price": 129.99,
+    "category": "sports",
+    "brand": "RunFast"
+  },
+  {
+    "id": "prod_003",
+    "name": "Coffee Mug",
+    "price": 19.99,
+    "category": "home",
+    "brand": "BrewMaster"
+  },
+  {
+    "id": "prod_004",
+    "name": "Laptop Backpack",
+    "price": 79.99,
+    "category": "accessories",
+    "brand": "TechCarry"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "chunk_id": "text_001",
+    "product_id": "prod_001",
+    "chunk_type": "description",
+    "content": "High-quality wireless headphones with active noise cancellation",
+    "metadata": {
+      "test": true,
+      "created_at": "2025-08-29T22:01:56.293631"
+    },
+    "pinecone_id": "text_text_001_b00aabf1"
+  },
+  {
+    "chunk_id": "text_002",
+    "product_id": "prod_001",
+    "chunk_type": "specifications",
+    "content": "Battery life: 30 hours, Bluetooth 5.0, Quick charge",
+    "metadata": {
+      "test": true,
+      "created_at": "2025-08-29T22:01:56.293924"
+    },
+    "pinecone_id": "text_text_002_45c27780"
+  },
+  {
+    "chunk_id": "text_003",
+    "product_id": "prod_001",
+    "chunk_type": "review",
+    "content": "Excellent sound quality, comfortable for long listening sessions",
+    "metadata": {
+      "test": true,
+      "created_at": "2025-08-29T22:01:56.294140"
+    },
+    "pinecone_id": "text_text_003_cd95d4a9"
+  },
+  {
+    "chunk_id": "text_004",
+    "product_id": "prod_002",
+    "chunk_type": "description",
+    "content": "Lightweight running shoes designed for marathon training",
+    "metadata": {
+      "test": true,
+      "created_at": "2025-08-29T22:01:56.294203"
+    },
+    "pinecone_id": "text_text_004_364fb76d"
+  },
+  {
+    "chunk_id": "text_005",
+    "product_id": "prod_002",
+    "chunk_type": "specifications",
+    "content": "Breathable mesh upper, responsive cushioning, durable outsole",
+    "metadata": {
+      "test": true,
+      "created_at": "2025-08-29T22:01:56.294247"
+    },
+    "pinecone_id": "text_text_005_9fc7f27f"
+  },
+  {
+    "chunk_id": "text_006",
+    "product_id": "prod_003",
+    "chunk_type": "description",
+    "content": "Ceramic coffee mug with ergonomic handle and heat retention",
+    "metadata": {
+      "test": true,
+      "created_at": "2025-08-29T22:01:56.294282"
+    },
+    "pinecone_id": "text_text_006_444c21cb"
+  },
+  {
+    "chunk_id": "text_007",
+    "product_id": "prod_004",
+    "chunk_type": "description",
+    "content": "Padded laptop compartment fits up to 15-inch laptops",
+    "metadata": {
+      "test": true,
+      "created_at": "2025-08-29T22:01:56.294341"
+    },
+    "pinecone_id": "text_text_007_5791f4c4"
+  },
+  {
+    "chunk_id": "text_008",
+    "product_id": "prod_004",
+    "chunk_type": "specifications",
+    "content": "Multiple pockets, water-resistant material, comfortable straps",
+    "metadata": {
+      "test": true,
+      "created_at": "2025-08-29T22:01:56.294392"
+    },
+    "pinecone_id": "text_text_008_73c145f4"
+  }
+]
